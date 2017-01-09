@@ -1,0 +1,4 @@
+.idea/
+static/js/node_modules/
+static/js/bundles/
+**/__pycache__
